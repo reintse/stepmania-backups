@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Bookkeeping>
+	<Data>
+		<Coins Day='288' Hour='16' Year='2025'>25</Coins>
+		<Coins Day='289' Hour='15' Year='2025'>1</Coins>
+		<Coins Day='289' Hour='16' Year='2025'>1</Coins>
+		<Coins Day='290' Hour='17' Year='2025'>1</Coins>
+		<Coins Day='290' Hour='19' Year='2025'>1</Coins>
+	</Data>
+</Bookkeeping>
